@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mudit Agarwal</h1>
 <h3 align="center">A passionate Fullstack Web Developer, Competitive Coder and a Tech Enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit018&label=Profile%20views&color=0e75b6&style=flat" alt="mudit018" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit018&label=Profile%20views&color=0e75b6&style=flat" alt="mudit018" /> </p> -->
 
 - 📫 How to reach me **agarwalmudit018@gmail.com**
 
